@@ -10,7 +10,7 @@
   <project name="gooptaaman/android_device_samsung_zenlte" 
     path="device/samsung/zenlte" 
     remote="github" 
-    revision="pe-10" />  
+    revision="aex-10" />  
 
   <project name="LineageOS/android_hardware_samsung_slsi_exynos" 
     path="hardware/samsung_slsi/exynos" 
